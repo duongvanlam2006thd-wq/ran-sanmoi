@@ -8,9 +8,9 @@
 
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò / Nhiệm vụ | Link GitHub Cá Nhân |
 |---|---|---|---|---|
-| 1 | Dương Văn Lâm (Nhóm trưởng) | 25CNTT2 | Code view, Main, Báo cáo, Hightscore, README.md  | [GitHub](https://github.com/duongvanlam2006thd-wq/ran-san-moii) |
-| 2 | Bùi Huy Bảo | 25CNTT2 | Code controller | [GitHub](https://github.com/buihuybao250907-ship-it/ran-san-moi) |
-| 3 | Phan Lê Huy Hoàng | 25CNTT2 | Code model (Snake, Obstacle, Gamestate, Foodx) | [GitHub](https://github.com/phanlehuyhoang293-ops/ran-san-moi) |
+| 1 | Dương Văn Lâm (Nhóm trưởng) | 3120225077 | Code view, Main, Báo cáo, Hightscore, README.md  | [GitHub](https://github.com/duongvanlam2006thd-wq/ran-san-moii) |
+| 2 | Bùi Huy Bảo | 3120225009 | Code controller | [GitHub](https://github.com/buihuybao250907-ship-it/ran-san-moi) |
+| 3 | Phan Lê Huy Hoàng | 3120225056 | Code model (Snake, Obstacle, Gamestate, Foodx) | [GitHub](https://github.com/phanlehuyhoang293-ops/ran-san-moi) |
 
 ---
 
